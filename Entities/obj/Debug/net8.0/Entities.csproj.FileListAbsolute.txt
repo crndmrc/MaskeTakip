@@ -1,0 +1,11 @@
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\ceren.demirci\Desktop\kişisel\04-07-2024-Proje1\MaskeTakip\Entities\obj\Debug\net8.0\ref\Entities.dll

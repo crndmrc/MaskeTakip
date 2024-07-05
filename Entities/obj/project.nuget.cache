@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fLb44PX/Eu7iJ2RXjv6g+gxECf4CJnGB9Ij36rugTZcZpJZbiEaA26c3g9Z/j9zFyzft/K49dAk9IsfIDVLnWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ceren.demirci\\Desktop\\kişisel\\04-07-2024-Proje1\\MaskeTakip\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://package.vbt.com.tr:8624/nuget/VBT/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
